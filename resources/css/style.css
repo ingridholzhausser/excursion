@@ -1,4 +1,4 @@
-body {
+* {
   background-color: #000000;
   text-align: center;
 }
@@ -14,4 +14,28 @@ a {
   font-family: "Verdana", sans-serif;
   font-size: 16px;
   color: Aquamarine;
+}
+
+h2 {
+  font-family: "Verdana", sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+  color: #ffffff;
+}
+
+p {
+  font-family: "Verdana", sans-serif;
+  font-size: 21px;
+  text-align: center;
+  color: Gray;
+}
+
+.copyright p {
+  font-family: "Verdana", sans-serif;
+  float: right;
+  color: Gray;
+}
+
+.main {
+  flex-wrap: wrap;
 }
