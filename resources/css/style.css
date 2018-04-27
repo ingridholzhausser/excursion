@@ -30,12 +30,8 @@ p {
   color: Gray;
 }
 
-.copyright p {
+footer {
   font-family: "Verdana", sans-serif;
   float: right;
   color: Gray;
-}
-
-.main {
-  flex-wrap: wrap;
 }
